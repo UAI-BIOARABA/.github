@@ -41,3 +41,12 @@ Estas son nuestras principales capacidades técnicas:
 * 🖨️ Diseño 3D, simulación (VR/XR) y fabricación digital
 
 * 👁️ IA embebida y visión por computador
+
+
+---
+
+## 📍 Contacto
+
+H.U.A. Sede Txagorritxu · Planta 4ª · Área C  
+C/ Jose Atxotegi, s/n · 01009 Vitoria-Gasteiz · Araba / Álava
+
