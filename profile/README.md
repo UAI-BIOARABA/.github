@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="profile/assets/logo-uai-bioaraba.png" alt="Logo Bioaraba" width="180">
+  <img src="assets/logo-uai-bioaraba.png" alt="Logo UAI Bioaraba" width="180">
 </p>
+
 
 # Unidad de Apoyo a la Innovación  
 ## Instituto de Investigación Sanitaria Bioaraba
