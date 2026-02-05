@@ -54,7 +54,7 @@ C/ Jose Atxotegi, s/n · 01009 Vitoria-Gasteiz · Araba / Álava
   <img
     src="assets/contact.png"
     alt="Contacto UAI Bioaraba"
-    width="100%"
+    width="50%"
     style="border-radius: 16px;"
   >
 </p>
