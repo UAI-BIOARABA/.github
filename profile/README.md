@@ -50,3 +50,11 @@ Estas son nuestras principales capacidades técnicas:
 H.U.A. Sede Txagorritxu · Planta 4ª · Área C  
 C/ Jose Atxotegi, s/n · 01009 Vitoria-Gasteiz · Araba / Álava
 
+<p align="center">
+  <img
+    src="assets/contact.png"
+    alt="Contacto UAI Bioaraba"
+    width="100%"
+    style="border-radius: 16px;"
+  >
+</p>
