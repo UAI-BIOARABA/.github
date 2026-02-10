@@ -1,18 +1,5 @@
-<table border="0">
-  <tr>
-    <td rowspan="2" width="60%">
-      <img src="assets/logo_horizontal_grande.png" alt="Imagen Grande">
-    </td>
-    <td width="40%">
-      <img src="assets/osakidetza.png" alt="Derecha Arriba">
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="assets/logo_gvsalud_v1.png" alt="Derecha Abajo">
-    </td>
-  </tr>
-</table>
+<img src="assets/logo_horizontal_grande.png" alt="Logo IIS Bioaraba">
+
 
 # Instituto de Investigación Sanitaria Bioaraba 
 > Unidad de Apoyo a la Innovación 
