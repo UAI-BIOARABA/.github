@@ -1,5 +1,6 @@
-<img src="assets/logo_horizontal_grande.png" alt="Logo IIS Bioaraba">
-
+<p align="center">
+  <img src="assets/logo_horizontal_grande.png" alt="Logo IIS Bioaraba" width="70%">
+</p>
 
 # Instituto de Investigación Sanitaria Bioaraba 
 > Unidad de Apoyo a la Innovación 
