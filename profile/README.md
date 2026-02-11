@@ -1,5 +1,6 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/UAI-BIOARABA/.github/main/assets/logo_horizontal_grande.png" alt="Logo IIS Bioaraba" width="70%">
+	
+<img alt="IIS Bioaraba - Logo" src="https://github.com/user-attachments/assets/64260b3d-c5c2-4256-af8f-caf30672f6e5" width="60%"/>
 
 # Instituto de Investigación Sanitaria Bioaraba
 
