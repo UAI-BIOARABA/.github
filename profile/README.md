@@ -1,10 +1,9 @@
 <div align="center">
+<img src="https://raw.githubusercontent.com/UAI-BIOARABA/.github/main/assets/logo_horizontal_grande.png" alt="Logo IIS Bioaraba" width="70%">
 
 # Instituto de Investigación Sanitaria Bioaraba
 
-<img src="assets/logo_horizontal_grande.png" alt="Logo IIS Bioaraba" width="70%">
-
-### *Unidad de Apoyo a la Innovación*
+### Unidad de Apoyo a la Innovación
 
 </div>
 
@@ -12,7 +11,9 @@
 
 ## 🔬 Transformamos ciencia y tecnología en soluciones de salud
 
-Damos servicio a todo el Territorio Histórico de Araba/Álava dentro del ámbito del Servicio Vasco de Salud Osakidetza y la Red de Salud Mental.
+Damos servicio a todo el territorio histórico de Araba/Álava dentro del ámbito del Servicio Vasco de Salud Osakidetza y la Red de Salud Mental.
+
+Nuestro propósito es ser un puente tecnológico entre la innovación de vanguardia y su aplicación práctica en salud.
 
 ## 🚀 Nuestra actividad
 
