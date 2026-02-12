@@ -14,7 +14,7 @@ Si has encontrado un fallo de seguridad, por favor **NO abras un Issue público*
 
 En su lugar, sigue estos pasos:
 
-1.  Envía un correo electrónico a **uai@bio-araba.eus**.
+1.  Envía un correo electrónico a **juanangel.fernandezcristobal@bio-araba.eus**.
 2.  Incluye pasos detallados para reproducir la vulnerabilidad.
 3.  Si es posible, adjunta una prueba de concepto (PoC) o logs relevantes.
 
