@@ -10,11 +10,13 @@
 
 ---
 
-## 🔬 Transformamos ciencia y tecnología en soluciones de salud
+## 🎯 Nuestros objetivos
 
-Damos servicio a todo el territorio histórico de Araba/Álava dentro del ámbito del Servicio Vasco de Salud Osakidetza y la Red de Salud Mental.
+Dando servicio a todo el territorio histórico de Araba/Álava dentro del ámbito del Servicio Vasco de Salud Osakidetza y la Red de Salud Mental:
 
-Nuestro propósito es ser un puente tecnológico entre la innovación de vanguardia y su aplicación práctica en salud.
+* **Transformamos ciencia y tecnología** en soluciones de salud.
+
+* **Nuestro propósito es ser un puente tecnológico** entre la innovación de vanguardia y su aplicación práctica en salud.
 
 ## 🚀 Nuestra actividad
 
