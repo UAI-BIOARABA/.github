@@ -1,19 +1,19 @@
-## Descripción
-Se añade la funcionalidad...
+## Description
+The following functionality has been added...
 
-## Cambios realizados
-- [ ] Implementado...
-- [ ] Cambiado...
-- [ ] Eliminado...
+## Changes Made
+- [ ] Implemented...
+- [ ] Modified...
+- [ ] Removed...
 
-## Cómo probarlo
+## How to Test
 1.
 2.
 3.
 
-## Impacto
-- No rompe funcionalidades existentes.
-- No requiere cambios adicionales de documentación.
+## Impact
+- Does not break existing functionality.
+- Does not require additional documentation changes.
 
-## Issue relacionado
+## Related Issue
 Closes #
