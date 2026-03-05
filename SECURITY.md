@@ -1,25 +1,25 @@
-# Política de Seguridad
+# Security Policy
 
-Desde UAI-BIOARABA agradecemos a la comunidad sus esfuerzos por ayudarnos a mantener nuestros sistemas seguros.
+At UAI-BIOARABA, we appreciate the community’s efforts to help us keep our systems secure.
 
-## Repositorios y versiones
+## Repositories and Versions
 
-La mayoría de repositorios son de carácter investigador o de uso interno y no se lanzan versiones específicas de uso público. Esto es, puede que mostremos el desarrollo de una APP que se usará de forma local y aislada, en la que priorizamos simplicidad antes que seguridad si somos conscientes que no supone absolutamente ningún peligro sobre los datos. 
+Most repositories are research-oriented or intended for internal use, and specific public-use releases are usually not provided. In other words, we may show the development of an app that will be used locally and in isolation, where we prioritize simplicity over security if we are aware that it will not affect us in that context.
 
-Agradecemos de todas formas que se reporten vulnerabilidades.
+Nevertheless, we appreciate vulnerability reports.
 
-## Reportar una vulnerabilidad
+## Reporting a Vulnerability
 
-Si has encontrado un fallo de seguridad, por favor **NO abras un Issue público**, ya que podrías exponer el sistema mientras trabajamos en la solución.
+If you have found a security issue, please **DO NOT open a public Issue**, as this could expose the system while we work on a fix.
 
-En su lugar, sigue estos pasos:
+Instead, follow these steps:
 
-1.  Envía un correo electrónico a **juanangel.fernandezcristobal@bio-araba.eus**.
-2.  Incluye pasos detallados para reproducir la vulnerabilidad.
-3.  Si es posible, adjunta una prueba de concepto (PoC) o logs relevantes.
+1. Send an email to **juanangel.fernandezcristobal@bio-araba.eus**.
+2. Include detailed steps to reproduce the vulnerability.
+3. If possible, attach a proof of concept (PoC) or relevant logs.
 
-### Nuestro compromiso
-* Revisaremos tu reporte lo antes posible.
-* Te mantendremos informado sobre el estado de la corrección.
-* Te avisaremos cuando el parche haya sido lanzado.
-* Si lo deseas, te daremos crédito público por el hallazgo en nuestras notas de lanzamiento.
+### Our Commitment
+* We will review your report as soon as possible.
+* We will keep you informed about the status of the fix.
+* We will notify you when the patch has been released.
+* If you wish, we will give you public credit for the discovery in our release notes.
