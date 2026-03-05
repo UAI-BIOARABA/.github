@@ -1,50 +1,50 @@
-# Guía de Contribución
+# Contribution Guide
 
-Esta guía define las normas de trabajo para este repositorio para mantener la consistencia, calidad y trazabilidad.
+This guide defines the working standards for this repository in order to maintain consistency, quality, and traceability.
 
-## ♻️ Flujo de trabajo General
+## ♻️ General Workflow
 
-1.  **Issue:** Crear un issue describiendo la tarea o bug (si aplica).
-2.  **Rama:** Crear una rama desde `main` siguiendo la convención de nombres.
-3.  **Código:** Hacer commits pequeños y descriptivos (Conventional Commits).
-4.  **PR:** Crear un Pull Request vinculando el issue.
-5.  **Revisión:** Esperar aprobación antes de hacer merge.
-6.  **Limpieza:** Borrar la rama una vez fusionada.
+1. **Issue:** Create an issue describing the task or bug (if applicable).
+2. **Branch:** Create a branch from `main` following the naming convention.
+3. **Code:** Make small and descriptive commits (Conventional Commits).
+4. **PR:** Create a Pull Request linking the issue.
+5. **Review:** Wait for approval before merging.
+6. **Cleanup:** Delete the branch once it has been merged.
 
-## 🪾 Convención de Ramas
+## 🪾 Branch Naming Convention
 
-Formato: `tipo/descripcion-muy-breve`
+Format: `type/very-brief-description`
 
-| Tipo | Uso | Ejemplo |
+| Type | Use | Example |
 | :--- | :--- | :--- |
-| `feature/` | Nuevas funcionalidades | `feature/mover-pierna` |
-| `fix/` | Corrección de errores | `fix/error-brazo-colapsa` |
-| `refactor/` | Mejoras sin cambio funcional | `refactor/ordenar-servicios` |
-| `chore/` | Tareas técnicas (deps, config) | `chore/actualizar-dependencias` |
-| `docs/` | Documentación | `docs/mejora-docs` |
+| `feature/` | New features | `feature/move-leg` |
+| `fix/` | Bug fixes | `fix/arm-collapse-error` |
+| `refactor/` | Improvements without functional changes | `refactor/reorganize-services` |
+| `chore/` | Technical tasks (deps, config) | `chore/update-dependencies` |
+| `docs/` | Documentation | `docs/improve-docs` |
 
-## ⬆️ Convención de Commits
+## ⬆️ Commit Convention
 
-Usamos **Conventional Commits**.
-* Imperativo ("agregar", no "agregado").
-* Máximo ~50 caracteres en el título.
-* Sin punto final.
+We use **Conventional Commits**.  
+* Imperative mood ("add", not "added").
+* Maximum ~50 characters in the title.
+* No period at the end.
 
-**Estructura:**
-`tipo: descripción breve`
+**Structure:**  
+`type: short description`
 
-**Tipos permitidos:**
-* `feat`: Nueva funcionalidad
-* `fix`: Corrección de bug
-* `docs`: Documentación
-* `style`: Formato (espacios, comas)
-* `refactor`: Refactor sin cambio de comportamiento
+**Allowed types:**
+* `feat`: New feature
+* `fix`: Bug fix
+* `docs`: Documentation
+* `style`: Formatting (spaces, commas)
+* `refactor`: Refactor without behavior changes
 * `test`: Tests
-* `chore`: Tareas varias
+* `chore`: Miscellaneous tasks
 
-**Ejemplo:** `feat: agregar script para mover pierna`
+**Example:** `feat: add script to move leg`
 
-## 🧹 Mantenimiento
-* Actualiza dependencias regularmente.
-* Elimina ramas obsoletas tras el merge.
-* Mantén el README actualizado.
+## 🧹 Maintenance
+* Update dependencies regularly.
+* Delete obsolete branches after merge.
+* Keep the README up to date.
