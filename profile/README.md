@@ -2,44 +2,45 @@
 	
 <img alt="IIS Bioaraba - Logo" src="https://github.com/user-attachments/assets/64260b3d-c5c2-4256-af8f-caf30672f6e5" width="60%"/>
 
-# Instituto de Investigación Sanitaria Bioaraba
+# Bioaraba Health Research Institute
 
-### Unidad de Apoyo a la Innovación
+### Innovation Support Unit
 
 </div>
 
 ---
 
-## 🎯 Nuestros objetivos
+## 🎯 Our Objectives
 
-Dando servicio a todo el territorio histórico de Araba/Álava dentro del ámbito del Servicio Vasco de Salud Osakidetza y la Red de Salud Mental:
+Providing services across the entire historical territory of Araba/Álava within the framework of the Basque Health Service (Osakidetza) and the Mental Health Network:
 
-* **Transformamos ciencia y tecnología** en soluciones de salud.
+* **We transform science and technology** into health solutions.
 
-* **Nuestro propósito es ser un puente tecnológico** entre la innovación de vanguardia y su aplicación práctica en salud.
+* **Our purpose is to be a technological bridge** between cutting-edge innovation and its practical application in healthcare.
 
-## 🚀 Nuestra actividad
+## 🚀 Our Activity
 
-Nos centramos en la Línea de Tecnologías Disruptivas para la Salud:
+We focus on the Disruptive Technologies for Health line:
 
-* **Robótica:** Integración de sistemas ciberfísicos.
-* **IA & Visión:** Inteligencia Artificial embebida y sistemas de visión por computador.
-* **Hardware:** Prototipado electrónico y desarrollo de hardware a medida.
-* **Fabricación Digital:** Diseño 3D, simulación (VR/XR) y fabricación aditiva.
+* **Robotics:** Integration of cyber-physical systems.
+* **AI & Vision:** Embedded Artificial Intelligence and computer vision systems.
+* **Hardware:** Electronic prototyping and custom hardware development.
+* **Digital Manufacturing:** 3D design, simulation (VR/XR), and additive manufacturing.
 
-## 📍 Ubicación
+## 📍 Location
 
-H.U.A. Sede Txagorritxu (Planta 4ª, Área C) C/ Jose Atxotegi, s/n, 01009 Vitoria-Gasteiz, Araba/Álava.
+H.U.A. Txagorritxu Headquarters (4th Floor, Area C)  
+C/ Jose Atxotegi, s/n, 01009 Vitoria-Gasteiz, Araba/Álava.
 
 ---
 
 <details> 
-	<summary>Nuestros proyectos destacados</summary>
+	<summary>Our Featured Projects</summary>
 	<br>
 	<ul>
-	<li><b>Proyecto Saaki:</b> Robótica humanoide sanitaria - Unitree G1 EDU</a></li>
+	<li><b>Saaki Project:</b> Healthcare humanoid robotics - Unitree G1 EDU</li>
 			<ul>
-        <li><a href="https://github.com/UAI-BIOARABA/saaki">Documentación y repositorios</a></li>
+        <li><a href="https://github.com/UAI-BIOARABA/saaki">Documentation and repositories</a></li>
 			</ul>
 	</ul>
 </details>
